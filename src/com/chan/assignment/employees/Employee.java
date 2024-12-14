@@ -1,4 +1,4 @@
-package com.alwindonald.assignment.employees;
+package com.chan.assignment.employees;
 
 public class Employee {
 	

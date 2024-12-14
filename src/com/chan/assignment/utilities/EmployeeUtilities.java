@@ -1,8 +1,8 @@
-package com.alwindonald.assignment.utilities;
+package com.chan.assignment.utilities;
 
 import java.util.Scanner;
-import com.alwindonald.assignment.employees.Developer;
-import com.alwindonald.assignment.employees.Manager;
+import com.chan.assignment.employees.Developer;
+import com.chan.assignment.employees.Manager;
 
 public class EmployeeUtilities {
 	

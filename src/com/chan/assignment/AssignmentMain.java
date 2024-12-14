@@ -1,6 +1,6 @@
-package com.alwindonald.assignment;
+package com.chan.assignment;
 import java.util.Scanner;
-import com.alwindonald.assignment.utilities.*;
+import com.chan.assignment.utilities.*;
 
 public class AssignmentMain {
 
